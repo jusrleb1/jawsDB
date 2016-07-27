@@ -15,8 +15,11 @@ var source = {
         database: "starwars"
     },
     jawsDB: {
-
-        // TODO: Add your JawsDB connection info here
+        port: 3306,
+        host: 'l3855uft9zao23e2.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
+        user: 'yrz3qu0ig29ee1at',
+        password: "ekcttu5iqk2xu789",
+        database: "zkp2afjhjy5yyprn"
     }
 }
 

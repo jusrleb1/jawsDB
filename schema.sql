@@ -4,8 +4,8 @@ It is important since other developers will be unlikely to have the same databas
 */
 
 /* Create and use the starwars db */
-CREATE DATABASE  `starwars`;
-USE `starwars`;
+CREATE DATABASE  `zkp2afjhjy5yyprn`;
+USE `zkp2afjhjy5yyprn`;
 
 /* Create a table for all your star wars characters */
 CREATE TABLE `allcharacters` (
